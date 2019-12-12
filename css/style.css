@@ -554,18 +554,18 @@ li {
 }
 .brand .logo {
   box-sizing: border-box;
-  padding: 20px;
+  padding: 10px;
   float: left;
   display: block;
-  width: 200px;
+  width: 300px;
 }
 @media only screen and (min-width: 992px) {
   .brand .logo {
-    width: 250px;
+    width: 350px;
   }
 }
 .brand .logo img {
-  height: 20px;
+  height: 45px;
 }
 .brand .menu-btn {
   float: right;
@@ -573,7 +573,7 @@ li {
   text-align: center;
   cursor: pointer;
   color: #fff;
-  padding: 20px 20px;
+  padding: 10px 10px;
 }
 @media only screen and (min-width: 992px) {
   .brand .menu-btn {

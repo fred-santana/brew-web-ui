@@ -1,15 +1,15 @@
 var swirlData = {
-    labels: ["January", "February", "March", "April", "May", "June", "July"],
+    labels: ["13:27", "13:34", "13:41", "13:47", "13:52", "14:01", "14:05"],
     datasets: [
         {
             label: "My First dataset",
-            fillColor: "rgba(220,220,220,0.2)",
-            strokeColor: "rgba(220,220,220,1)",
-            pointColor: "rgba(220,220,220,1)",
+            fillColor: "rgba(107,25,47,0.3)",
+            strokeColor: "rgba(107,25,47,0.2)",
+            pointColor: "rgba(107,25,47,0.2)",
             pointStrokeColor: "#fff",
             pointHighlightFill: "#fff",
             pointHighlightStroke: "rgba(220,220,220,1)",
-            data: [65, 59, 80, 81, 56, 55, 40]
+            data: [63.2, 67.1, 65, 64.3, 64.7, 65, 65]
         },
         {
             label: "My Second dataset",
@@ -19,7 +19,7 @@ var swirlData = {
             pointStrokeColor: "#fff",
             pointHighlightFill: "#fff",
             pointHighlightStroke: "rgba(151,187,205,1)",
-            data: [28, 48, 40, 19, 86, 27, 90]
+            data: [66, 66, 66, 66, 66, 66, 66]
         }
     ]
 };
@@ -27,7 +27,7 @@ var swirlData = {
 var doughnutData = [
     {
         value: 300,
-        color:"#F7464A",
+        color: "#F7464A",
         highlight: "#FF5A5E",
         label: "Red"
     },
@@ -75,7 +75,7 @@ var radarData = {
 var polarData = [
     {
         value: 300,
-        color:"#F7464A",
+        color: "#F7464A",
         highlight: "#FF5A5E",
         label: "Red"
     },
@@ -107,7 +107,7 @@ var polarData = [
 ];
 
 var barChartData = {
-	labels: ["January", "February", "March", "April", "May", "June", "July"],
+    labels: ["January", "February", "March", "April", "May", "June", "July"],
     datasets: [
         {
             label: "My First dataset",
