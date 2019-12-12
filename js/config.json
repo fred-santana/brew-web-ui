@@ -1,0 +1,5 @@
+{
+    "version": 1,
+    "host_api": "http://localhost:3000",
+    "temperature": "C"
+}
